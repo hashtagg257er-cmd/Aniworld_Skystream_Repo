@@ -1,17 +1,13 @@
 {
-  "plugin": [
-    {
-      "id": "com.neko.aniworld",
-      "name": "Aniworld",
-      "author": "neko",
-      "description": "Aniworld Scraper",
-      "version": 1,
-      "url": "https://githubusercontent.com",
-      "id_name": "com.neko.aniworld"
-    }
-  ],
   "name": "Nekos Aniworld Repo",
   "id": "com.neko.aniworld",
+  "author": "neko",
   "packageName": "com.neko.aniworld",
-  "author": "neko"
+  "plugins": [
+    {
+      "name": "Aniworld",
+      "id": "com.neko.aniworld",
+      "url": "https://githubusercontent.com"
+    }
+  ]
 }
