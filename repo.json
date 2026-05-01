@@ -1,19 +1,9 @@
 {
-  "name": "Nekos Aniworld Repo",
   "id": "com.neko.aniworld",
+  "packageName": "com.neko.aniworld",
+  "name": "Aniworld",
   "author": "neko",
-  "repos": [
-    {
-      "id": "com.neko.aniworld",
-      "name": "Aniworld",
-      "url": "https://githubusercontent.com"
-    }
-  ],
-  "plugins": [
-    {
-      "id": "com.neko.aniworld",
-      "name": "Aniworld",
-      "url": "https://githubusercontent.com"
-    }
-  ]
+  "main": "index.js",
+  "version": 1,
+  "description": "Aniworld Scraper von neko"
 }
