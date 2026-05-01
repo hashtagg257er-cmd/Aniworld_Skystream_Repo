@@ -1,11 +1,11 @@
 {
   "name": "Nekos Repo",
-  "id": "com.neko.aniworld",
+  "id": "neko.ani",
   "author": "neko",
   "plugins": [
     {
+      "id": "neko.ani",
       "name": "Aniworld",
-      "id": "com.neko.aniworld",
       "url": "https://githubusercontent.com"
     }
   ]
