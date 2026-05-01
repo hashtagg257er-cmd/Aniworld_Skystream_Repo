@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Aniworld",
-    "id": "com.neko.ani",
-    "author": "neko",
-    "url": "https://githubusercontent.com"
-  }
-]
+{
+  "id": "com.neko.aniworld",
+  "name": "Aniworld",
+  "main": "index.js",
+  "version": 1,
+  "description": "Aniworld Scraper von neko"
+}
