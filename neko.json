@@ -3,11 +3,18 @@
   "id": "com.neko.aniworld",
   "packageName": "com.neko.aniworld",
   "author": "neko",
+  "version": 1,
   "plugin": [
     {
       "id": "com.neko.aniworld",
       "name": "Aniworld",
-      "author": "neko",
+      "url": "https://githubusercontent.com"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "com.neko.aniworld",
+      "name": "Aniworld",
       "url": "https://githubusercontent.com"
     }
   ]
