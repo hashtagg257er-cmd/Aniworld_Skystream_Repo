@@ -1,15 +1,18 @@
 {
   "name": "Nekos Aniworld Repo",
   "id": "com.neko.aniworld",
-  "packageName": "com.neko.aniworld",
   "author": "neko",
-  "description": "Aniworld Plugin für SkyStream",
-  "version": 1,
-  "plugin": [
+  "repos": [
     {
       "id": "com.neko.aniworld",
       "name": "Aniworld",
-      "version": 1,
+      "url": "https://githubusercontent.com"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "com.neko.aniworld",
+      "name": "Aniworld",
       "url": "https://githubusercontent.com"
     }
   ]
