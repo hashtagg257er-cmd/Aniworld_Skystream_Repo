@@ -1,11 +1,14 @@
 {
-  "name": "Nekos Repo",
-  "id": "neko.ani",
+  "name": "Nekos Aniworld Repo",
+  "id": "com.neko.aniworld",
+  "packageName": "com.neko.aniworld",
   "author": "neko",
-  "plugins": [
+  "version": 1,
+  "plugin": [
     {
-      "id": "neko.ani",
+      "id": "com.neko.aniworld",
       "name": "Aniworld",
+      "author": "neko",
       "url": "https://githubusercontent.com"
     }
   ]
