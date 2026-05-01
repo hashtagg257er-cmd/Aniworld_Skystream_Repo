@@ -1,7 +1,11 @@
 {
   "id": "com.neko.aniworld",
+  "packageName": "com.neko.aniworld",
   "name": "Aniworld",
-  "main": "index.js",
+  "author": "neko",
   "version": 1,
-  "description": "Aniworld Scraper von neko"
+  "description": "Aniworld Scraper",
+  "main": "index.js",
+  "language": "de",
+  "type": "tv"
 }
