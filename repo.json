@@ -1,18 +1,12 @@
 {
   "name": "Nekos Repo",
   "id": "com.neko.aniworld",
-  "packageName": "com.neko.aniworld",
   "author": "neko",
-  "description": "Aniworld Plugin",
-  "version": 1,
-  "plugin": [
+  "plugins": [
     {
-      "id": "com.neko.aniworld",
       "name": "Aniworld",
-      "author": "neko",
-      "url": "https://githubusercontent.com",
-      "description": "Scrapper von neko",
-      "version": 1
+      "id": "com.neko.aniworld",
+      "url": "https://githubusercontent.com"
     }
   ]
 }
