@@ -1,11 +1,12 @@
-{
-  "name": "Nekos Aniworld Repo",
-  "author": "neko",
-  "description": "Aniworld Plugin Repository",
-  "id": "com.neko.aniworld",
-  "packageName": "com.neko.aniworld",
-  "status": 1,
-  "plugin": {
-    "url": "https://githubusercontent.com"
+[
+  {
+    "name": "Nekos Aniworld Repo",
+    "description": "Aniworld Plugin von neko",
+    "manifestVersion": 1,
+    "id": "com.neko.aniworld",
+    "packageName": "com.neko.aniworld",
+    "author": "neko",
+    "url": "https://githubusercontent.com",
+    "plugin": "https://githubusercontent.com"
   }
-}
+]
