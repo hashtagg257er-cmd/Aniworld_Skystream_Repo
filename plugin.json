@@ -1,0 +1,7 @@
+{
+  "id": "com.neko.aniworld",
+  "name": "Aniworld",
+  "main": "index.js",
+  "version": 1,
+  "description": "Aniworld Scraper von neko"
+}

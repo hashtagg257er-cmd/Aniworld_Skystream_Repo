@@ -1,0 +1,12 @@
+{
+  "name": "Nekos Aniworld Repo",
+  "author": "neko",
+  "plugins": [
+    {
+      "id": "com.neko.aniworld",
+      "name": "Aniworld",
+      "version": 1,
+      "url": "plugin.json"
+    }
+  ]
+}
