@@ -1,12 +1,14 @@
 {
-  "name": "Ani",
-  "id": "ani",
+  "name": "Nekos Repo",
+  "id": "com.neko.aniworld",
+  "packageName": "com.neko.aniworld",
   "author": "neko",
   "plugin": [
     {
-      "id": "ani",
+      "id": "com.neko.aniworld",
       "name": "Aniworld",
-      "url": "https://githubusercontent.com"
+      "author": "neko",
+      "url": "https://jsdelivr.net"
     }
   ]
 }
