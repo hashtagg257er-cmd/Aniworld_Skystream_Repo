@@ -1,13 +1,16 @@
 {
-  "name": "Nekos Repo",
-  "id": "com.neko.aniworld",
+  "name": "Nekos Nuvio Repo",
+  "id": "com.neko.nuvio",
   "author": "neko",
+  "version": 1,
   "plugins": [
     {
       "id": "com.neko.aniworld",
       "name": "Aniworld",
       "author": "neko",
-      "url": "https://jsdelivr.net"
+      "version": "1.0.0",
+      "description": "Aniworld für Nuvio",
+      "url": "https://githubusercontent.com"
     }
   ]
 }
