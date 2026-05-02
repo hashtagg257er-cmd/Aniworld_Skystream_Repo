@@ -1,14 +1,16 @@
-{
-  "id": "com.neko.aniworld.repo",
-  "name": "Nekos Nuvio Repo",
-  "version": "1.0.0",
-  "author": "neko",
-  "type": "repository",
-  "plugins": [
-    {
-      "id": "com.neko.aniworld",
-      "name": "Aniworld",
-      "url": "https://githubusercontent.com"
-    }
-  ]
-}
+[
+  {
+    "id": "com.neko.aniworld.repo",
+    "name": "Nekos Nuvio Repo",
+    "version": "1.0.0",
+    "author": "neko",
+    "type": "repository",
+    "plugins": [
+      {
+        "id": "com.neko.aniworld",
+        "name": "Aniworld",
+        "url": "https://githubusercontent.com"
+      }
+    ]
+  }
+]
