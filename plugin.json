@@ -1,9 +1,0 @@
-{
-  "id": "com.neko.aniworld",
-  "name": "Aniworld",
-  "version": "1.0.0",
-  "author": "neko",
-  "main": "index.js",
-  "type": "video",
-  "language": "de"
-}
