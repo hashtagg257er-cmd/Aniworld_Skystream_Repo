@@ -2,7 +2,7 @@
   "name": "Aniworld Repo",
   "id": "to.aniworld.repo",
   "description": "Aniworld Plugin für SkyStream",
-  "plugin": [
+  "plugins": [
     {
       "id": "to.aniworld.plugin",
       "name": "Aniworld",
