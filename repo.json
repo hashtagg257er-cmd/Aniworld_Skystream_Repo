@@ -1,10 +1,10 @@
 {
   "name": "Aniworld Repo",
-  "author": "hashtag257er",
+  "id": "to.aniworld.repo",
   "description": "Aniworld Plugin für SkyStream",
-  "plugins": [
+  "plugin": [
     {
-      "id": "aniworld.to.plugin",
+      "id": "to.aniworld.plugin",
       "name": "Aniworld",
       "version": "1.3.0",
       "url": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.js"
