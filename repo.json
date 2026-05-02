@@ -1,9 +1,8 @@
 {
   "name": "Nekos Repo",
   "id": "com.neko.aniworld",
-  "packageName": "com.neko.aniworld",
   "author": "neko",
-  "plugin": [
+  "plugins": [
     {
       "id": "com.neko.aniworld",
       "name": "Aniworld",
