@@ -1,16 +1,16 @@
 {
   "name": "Aniworld Repo",
   "id": "to.aniworld.repo",
-  "packageName": "to.aniworld.repo",
   "description": "Aniworld Plugin für SkyStream",
-  "version": 13,
+  "version": 1,
+  "provider": "hashtagg257er-cmd",
   "plugin": [
     {
       "id": "to.aniworld.plugin",
       "name": "Aniworld",
       "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.js"
+      "url": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.js",
+      "type": "anime"
     }
-  ],
-  "repos": []
+  ]
 }
