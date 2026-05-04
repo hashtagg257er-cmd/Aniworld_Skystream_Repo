@@ -1,16 +1,11 @@
 {
-  "packageName": "com.mein.aniworld.aniworld",
+  "id": "com.mein.aniworld",
+  "packageName": "com.mein.aniworld",
   "name": "AniWorld",
   "version": 1,
-  "baseUrl": "https://example.com",
+  "baseUrl": "https://aniworld.to",
   "description": "AniWorld plugin (Sky Gen 2)",
-  "authors": [
-    "Developer"
-  ],
-  "languages": [
-    "en"
-  ],
-  "categories": [
-    "Others"
-  ]
+  "authors": ["hashtagg257er-cmd"],
+  "languages": ["de"],
+  "categories": ["Anime"]
 }
