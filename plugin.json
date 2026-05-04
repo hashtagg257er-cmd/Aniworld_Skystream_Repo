@@ -1,11 +1,15 @@
 {
-  "id": "com.mein.aniworld",
-  "packageName": "com.mein.aniworld",
-  "name": "AniWorld",
-  "version": 1,
-  "baseUrl": "https://aniworld.to",
-  "description": "AniWorld plugin (Sky Gen 2)",
-  "authors": ["hashtagg257er-cmd"],
-  "languages": ["de"],
-  "categories": ["Anime"]
+  "name": "Nekos Aniworld Repo",
+  "plugins": [
+    {
+      "id": "com.mein.aniworld",
+      "packageName": "com.mein.aniworld",
+      "name": "AniWorld",
+      "version": 1,
+      "baseUrl": "https://aniworld.to",
+      "description": "AniWorld plugin (Sky Gen 2)",
+      "authors": ["hashtagg257er-cmd"],
+      "url": "HIER_DEN_RAW_LINK_DEINER_PLUGIN_JS_EINFÜGEN"
+    }
+  ]
 }
