@@ -1,15 +1,12 @@
 {
   "name": "Nekos Aniworld Repo",
+  "id": "com.mein.aniworld",
   "plugins": [
     {
       "id": "com.mein.aniworld",
-      "packageName": "com.mein.aniworld",
       "name": "AniWorld",
-      "version": 1,
-      "baseUrl": "https://aniworld.to",
-      "description": "AniWorld plugin (Sky Gen 2)",
-      "authors": ["hashtagg257er-cmd"],
-      "url": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.js"
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/hashtagg257er-cmd/AniWorld_Skystream_Repo/refs/heads/main/plugin.js"
     }
   ]
 }
