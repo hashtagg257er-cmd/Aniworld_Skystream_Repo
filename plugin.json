@@ -1,8 +1,10 @@
 {
-  "id": "com.mein.aniworld",
   "packageName": "com.mein.aniworld",
   "name": "AniWorld",
   "version": "1.0.0",
+  "author": "hashtagg257er",
+  "description": "Aniworld Extension",
   "main": "plugin.js",
-  "type": "source"
+  "type": "video",
+  "language": "de"
 }
