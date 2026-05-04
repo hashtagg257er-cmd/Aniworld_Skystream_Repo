@@ -4,12 +4,12 @@ export default {
     version: "1.0.0",
 
     async search(query) {
-        const res = await fetch(`https://aniworld.to{encodeURIComponent(query)}`);
+        const res = await fetch(`https://aniworld.to${encodeURIComponent(query)}`);
         const data = await res.json();
         return data.map(item => ({
             title: item.title.replace(/<[^>]*>?/gm, ''),
             url: `https://aniworld.to${item.link}`,
-            poster: `https://aniworld.to{item.link.split('/').pop()}.jpg`,
+            poster: `https://aniworld.to${item.link.split('/').pop()}.jpg`,
             type: 'series'
         }));
     },
