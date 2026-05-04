@@ -1,1 +1,7 @@
-
+{
+  "name": "Nekos Aniworld Repo",
+  "id": "com.mein.aniworld.repo",
+  "plugins": [
+    "https://githubusercontent.com"
+  ]
+}
