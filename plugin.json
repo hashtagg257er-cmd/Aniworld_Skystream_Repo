@@ -1,0 +1,16 @@
+{
+  "packageName": "com.mein.aniworld.aniworld",
+  "name": "AniWorld",
+  "version": 1,
+  "baseUrl": "https://example.com",
+  "description": "AniWorld plugin (Sky Gen 2)",
+  "authors": [
+    "Developer"
+  ],
+  "languages": [
+    "en"
+  ],
+  "categories": [
+    "Others"
+  ]
+}
