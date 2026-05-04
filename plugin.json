@@ -2,7 +2,7 @@
   "packageName": "com.mein.aniworld",
   "name": "AniWorld",
   "version": "1.0.0",
-  "author": "hashtagg257er",
+  "author": "hashtagg257er-cmd",
   "description": "Aniworld Extension",
   "main": "plugin.js",
   "type": "video",
