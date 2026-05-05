@@ -2,6 +2,7 @@
   "name": "Nekos Aniworld Repo",
   "id": "com.mein.aniworld.repo",
   "author": "hashtagg257er-cmd",
+  "plugin": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.json",
   "plugins": [
     {
       "id": "com.mein.aniworld",
