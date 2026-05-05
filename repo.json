@@ -1,5 +1,10 @@
 {
   "name": "Nekos Aniworld Repo",
+  "packageName": "com.mein.aniworld.repo",
   "id": "com.mein.aniworld.repo",
-  "plugin": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.json"
+  "description": "Aniworld Extension für Skystream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/plugin.json"
+  ]
 }
