@@ -1,12 +1,19 @@
 {
-  "id": "com.mein.aniworld",
-  "packageName": "com.mein.aniworld",
-  "name": "AniWorld",
-  "version": "1.0.0",
-  "author": "hashtagg257er-cmd",
-  "description": "Aniworld Extension für Skystream",
-  "main": "plugin.js",
-  "type": "video",
-  "language": "de",
-  "icon": "https://raw.githubusercontent.com/hashtagg257er-cmd/Aniworld_Skystream_Repo/refs/heads/main/icon.png"
+
+"id": "com.mein.aniworld"
+
+"packageName": "com.mein.aniworld",
+
+"name": "AniWorld",
+
+"version": "1.0.0",
+
+"author": "hashtagg257er-cmd",
+
+"description": "Aniworld Extension für Skystream", "main": "https://raw.githubusercontent.com/ hashtagg257er-cmd/Aniworld Skystream_Repo/main/plugin.js", "type": "video"
+
+"language": "de",
+
+"icon": "https://raw.githubusercontent.com/ hashtagg257er-cmd/Aniworld Skystream_Repo/main/icon.png"
+
 }
